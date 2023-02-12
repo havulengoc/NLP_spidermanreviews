@@ -1,4 +1,4 @@
-<h1> NLP_spidermanreviews </h1>
+<h1> Natural Language Processing: Spiderman Movies Review </h1>
 
 <p> When a product influences me in a good or a bad way I almost always want to hear other people’s experiences as well. This is certainly the case when it comes to Spider-Man for me. My first exposure to this hero was The Animated Series when I was a kid. Since then I tried to watch every Spider-Man media available. Through time I reacted differently to these media. Speaking specifically for movies, I loved and adored some of them. Some other movies couldn’t satisfy me. I also realized that people have different tastes when it comes to Spider-Man movies. Some really like The Amazing Spider-Man series, I don’t. Though I really liked seeing Andrew Garfield as Spider-Man.
 

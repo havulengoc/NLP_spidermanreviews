@@ -1,10 +1,5 @@
 <h1> NLP_spidermanreviews </h1>
-Image here. 
-<p> Description </p>
 
-<h2> Outline </h2>
-1. R packges
-2. Dataset
-3. How to read R markdown file 
+<p> When a product influences me in a good or a bad way I almost always want to hear other people’s experiences as well. This is certainly the case when it comes to Spider-Man for me. My first exposure to this hero was The Animated Series when I was a kid. Since then I tried to watch every Spider-Man media available. Through time I reacted differently to these media. Speaking specifically for movies, I loved and adored some of them. Some other movies couldn’t satisfy me. I also realized that people have different tastes when it comes to Spider-Man movies. Some really like The Amazing Spider-Man series, I don’t. Though I really liked seeing Andrew Garfield as Spider-Man.
 
-<h2> Reference </h2>
+After I learned a little bit about Text Analysis, I thought that analyzing this familiar topic would be a good practice. It would also quench my curiosity about other people’s reactions the these movies. I will be following the book Text Mining with R throughout this notebook. That’s a very valuable resource if you want to learn more about Text Mining. </p>
